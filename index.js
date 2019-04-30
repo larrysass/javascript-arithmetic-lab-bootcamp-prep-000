@@ -19,6 +19,7 @@ function divide(a, b)
 }
 
 function inc(n) 
+var number = 1
 {
  return n += number
 }

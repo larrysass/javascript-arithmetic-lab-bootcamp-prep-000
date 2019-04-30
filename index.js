@@ -23,3 +23,9 @@ function inc(n)
  var number = 1
  return n += number
 }
+
+function dec(n) 
+{
+ var number = 1
+ return n -= number
+}
